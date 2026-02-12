@@ -1,4 +1,4 @@
-# Java Lab Assignment 5 — Persistent Student Record System
+ Persistent Student Record System
 
 ## How to run (locally)
 1. Download repo and keep `data/students.txt` in project root.
